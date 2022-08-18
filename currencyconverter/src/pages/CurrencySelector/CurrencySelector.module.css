@@ -1,0 +1,9 @@
+.SelectorInput {
+  border: 1px solid #333;
+  border-radius: 0.3em;
+  padding: 0.25rem;
+  width: 15em;
+}
+.SelectorSelect {
+  margin-left: 0.5rem;
+}

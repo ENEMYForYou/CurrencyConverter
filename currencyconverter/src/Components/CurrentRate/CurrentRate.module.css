@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 19px;
+}
+.ratesBlock {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.ratesList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.rate {
+  color: rgb(44, 42, 42);
+}

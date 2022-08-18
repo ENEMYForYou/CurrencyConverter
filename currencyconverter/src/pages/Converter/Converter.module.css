@@ -1,0 +1,17 @@
+.ConverterContainer {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+.ConverterTitle {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+.ConverterEqual {
+  font-weight: 700;
+  font-size: 2rem;
+}
